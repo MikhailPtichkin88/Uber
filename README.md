@@ -1,2 +1,2 @@
 # Uber landing page
-Bootstrap practice
+Simple landing mostly done for Bootstrap practice. Src files repository.
